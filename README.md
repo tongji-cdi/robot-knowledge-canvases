@@ -1,6 +1,6 @@
 # Canvases of how people present robotic situational knowledge
 
-This repository contains the canvas data we used in our CHI'21 paper "Patterns for Representing Knowledge Graphs to Communicate Situational Knowledge of Service Robots." We gave each participants three human-robot interaction scenarios, where the human asks the robot to communicate its situational knowledge. We then asked the participants to present the knowledge using cards on a canvas, playing the role of the robot. These are the results:
+This repository contains the canvas data we used in our CHI'21 paper "Patterns for Representing Knowledge Graphs to Communicate Situational Knowledge of Service Robots." We gave each participant three human-robot interaction scenarios, where the human asks the robot to communicate its situational knowledge. We then asked the participants to present the knowledge using cards on a canvas, playing the role of the robot. These are the results:
 
 | Participant | Session 1 | Session 2 | Session 3 |
 | ------------- | ------------- | ------------- | ------------- |
